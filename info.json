@@ -1,0 +1,23 @@
+{
+  "name": "Ainsley Brundage",
+  "website": "https://github.com/AinsleyB29",
+  "linkedin": "https://www.linkedin.com/in/ainsleybrundage/",
+  "github": "ainsleyb29",
+  "email": "abrundage95@gmail.com",
+  "resume": "https://github.com/AinsleyB29/AinsleyB29.github.io/blob/main/Ainsley%20Resume%202021%20(Updated).docx.pdf",
+  "proficientTechnologies": [
+    "Node.js",
+    "Javascript",
+    "React",
+    "Git",
+    "Github",
+    "Express",
+    "HTML5",
+    "CSS3",
+    "SQL",
+    "Python",
+    "Django",
+    "MongoDB"
+  ],
+  "otherSkills": ["Writing", "Dancing", "Sprinting"]
+}
